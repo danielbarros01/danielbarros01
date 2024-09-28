@@ -1,16 +1,18 @@
-## Hi there 👋
+<h1 align="center"><b>Hi , I'm Daniel </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<!--
-**danielbarros01/danielbarros01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![flyerbackground](https://github.com/user-attachments/assets/eb27b9b5-745c-49a1-a6bd-af5b7c42910c)
 
-Here are some ideas to get you started:
+### 👨🏻‍💻 &nbsp;About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💡 **Ideas must become reality:** I focus on creating robust, scalable, and easy-to-understand software, considering every detail from start to finish.
+
+- 🛠️ **Limited resources, immediate action:** I've handled UI design, database setup, programming, and deployment in my projects when resources are scarce.
+
+- 💻 **Passion for C# and .NET:** Since discovering C# and .NET, I see programming differently. These technologies simplify development and enhance software quality.
+
+- ⏳ **Making the most of free time:** I use my free time to learn and deepen my knowledge through relevant platforms and official documentation.
+
+- 📧 **Contact:** If you're interested, feel free to reach out at **danielbarros_dev@hotmail.com**.
+
+- 🌐 **Portfolio:** Check out my work at **[danielbarrosdev.com](https://danielbarrosdev.com/)**, where I showcase my projects and efforts.
+

@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hi , I'm Daniel </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-![flyerbackground](https://github.com/user-attachments/assets/eb27b9b5-745c-49a1-a6bd-af5b7c42910c)
+![flyerbackground](https://github.com/user-attachments/assets/ffac9882-56a7-4acb-b275-6414459c2690)
 
 ### 👨🏻‍💻 &nbsp;About Me
 

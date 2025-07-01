@@ -4,17 +4,17 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-- 💡 **Ideas must become reality:** I focus on creating robust, scalable, and easy-to-understand software, considering every detail from start to finish.
+- 💡 **Ideas to Reality:** I focus on creating robust, scalable, and easy-to-understand software, meticulously considering every detail from start to finish.
 
-- 🛠️ **Limited resources, immediate action:** I've handled UI design, database setup, programming, and deployment in my projects when resources are scarce.
+- 🛠️ **Resourceful & Hands-On:** When resources are scarce, I've handled everything from UI design and database setup to programming and deployment, ensuring projects come to life.
 
-- 💻 **Passion for C# and .NET:** Since discovering C# and .NET, I see programming differently. These technologies simplify development and enhance software quality.
+- 💻 **Kotlin & Jetpack Compose Enthusiast:** While I have a strong background in C# and .NET, my current passion and primary focus are on deepening my expertise in **Kotlin and Jetpack Compose**.
 
-- ⏳ **Making the most of free time:** I use my free time to learn and deepen my knowledge through relevant platforms and official documentation.
+- ⏳ **Continuous Learning:** I constantly use my free time to learn and grow, leveraging relevant platforms and official documentation to stay at the forefront of technology.
 
 - 📧 **Contact:** If you're interested, feel free to reach out at **danielbarros_dev@hotmail.com**.
 
-- 🌐 **Portfolio:** Check out my work at **[danielbarrosdev.com](https://danielbarrosdev.com/)**, where I showcase my projects and efforts.
+- 🌐 **Portfolio:** My portfolio at **[danielbarrosdev.com](https://danielbarrosdev.com/)** is currently undergoing maintenance as I update it with my latest projects. It'll be back online soon!
 
 ### ⚙️ &nbsp;GitHub Analytics
 
